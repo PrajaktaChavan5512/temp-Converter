@@ -1,0 +1,55 @@
+body{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/07/Weather-Background.jpg);
+    text-align: center;
+    color: rgb(250, 240, 240);
+
+    
+}
+
+label{
+    font-size:18px;
+    font-family:  sans-serif;
+    font-style: italic;
+    border-color: rgb(22, 22, 215);
+    text-align: left;
+    font-weight: bold;
+}
+.container{
+
+   
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+input{
+   
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+.button{
+height: auto;
+width: 200px;
+font-size: 1rem;
+font-family: sans-serif;
+font-weight: bold;
+background-origin: padding-box;
+padding: 10px;
+background-color: rgb(121, 215, 231);
+border-radius: 10px;
+border-color: black;
+}
+.button1{
+    height: auto;
+    width: 200px;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-origin: padding-box;
+    padding: 10px;
+    background-color: rgb(220, 27, 178);
+    border-radius: 10px;
+    border-color: rgb(212, 205, 205);
+    }
